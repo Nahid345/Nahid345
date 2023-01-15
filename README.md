@@ -17,6 +17,13 @@ Skills:   REACT / JAVASCRIPT / HTML / CSS/C/C++/PYTHON
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nahid345)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nahid345&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nahid345)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/Nahid345)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nahid345)  
+
+
 
 
 
