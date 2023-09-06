@@ -5,9 +5,9 @@
 
 I love to introduce myself as a Frontend Developer and enthusiast passionate about programming. I use technologies like Javascript, Reactjs, Html, CSS, and Expressjs to build and maintain web applications. I have knowledge of programming languages like c, c++, java, and python. I have a passion for learning and sharing my knowledge with others publicly as possible. Most of the time I work with front-end technologies but I enjoy working with problem-solving..
 
-Skills:   REACT / JAVASCRIPT / HTML / CSS/C/C++/PYTHON
+Skills:   HTML / CSS /Bootstrap / Taiwind / DaisyUi / JavaScprit / React / NodeJs / C,C++ / Python
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning NodeJs 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about programming 
 
