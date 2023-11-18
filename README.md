@@ -3,11 +3,11 @@
 ### Hi there 👋, I'm Nahid
 #### Web Developer
 
-I love to introduce myself as a Frontend Developer and enthusiast passionate about programming. I use technologies like Javascript, Reactjs, Html, CSS, and Expressjs to build and maintain web applications. I have knowledge of programming languages like c, c++, java, and python. I have a passion for learning and sharing my knowledge with others publicly as possible. Most of the time I work with front-end technologies but I enjoy working with problem-solving..
+I love to introduce myself as a  Developer and enthusiast passionate about programming. I use technologies like Javascript, Reactjs, HTML, CSS, and Express to build and maintain web applications. I have knowledge of Databases like Mysql (RDMS) and MongoDB(NoSql). I have knowledge of programming languages like c, c++, java, and Python. I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time I work with Full-Stack technologies but I enjoy working with problem-solving.
 
-Skills:   HTML / CSS /Bootstrap / Taiwind / DaisyUi / JavaScprit / React / NodeJs / C,C++ / Python
+Skills:   HTML / CSS /Bootstrap / Taiwind / DaisyUi / JavaScprit / React / ExpressJs /MongoDB / C,C++ / Python
 
-- 🌱 I’m currently learning NodeJs 
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about programming 
 
